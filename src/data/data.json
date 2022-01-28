@@ -1,0 +1,114 @@
+{
+  "Header": {
+    "title": "CAT CANTIK",
+    "paragraph": "Selamat datang di Jasa Pengecatan Termurah & Terpercaya."
+  },
+  "About": {
+    "paragraph": "CAT CANTIK adalah Perusahaan yang bergerak dibidang Jasa Pengecatan, maka kami berkomitmen untuk memberikan pelayanan professional dan hasil berkualitas yang memberikan kepuasan kepada semua pihak.",
+    "Why": [
+      "Professional",
+      "Harga Bersaing",
+      "Mutu Terjamin",
+      "Hasil akhir yang Memuaskan"
+    ],
+    "Why2": [
+      "Berpengalaman",
+      "Praktis",
+      "Pengerjaan Cepat",
+      "Terpercaya"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Foto 1",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Foto 2",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Foto 3",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Foto 4",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Foto 5",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-user",
+      "name": "Teknisi Professional",
+      "text": "Kami memiliki teknisi yang dibekali kemampuan dan dapat dipercaya dalam pekerjaan."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Harga Bersaing",
+      "text": "Harga kami bersaing dengan jasa lainnya."
+    },
+    {
+      "icon": "fa fa-check",
+      "name": "Berpengalaman",
+      "text": "Kami telah berpengalaman melayani untuk memberikan layanan terbaik sejak tahun 2020."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Jasanya sangat terpercaya dan dapat diacungi jempol.\"",
+      "name": "Pak Udin"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Harganya sangat bersaing, saya sangat merekomendasikannya.\"",
+      "name": "Ibu Maemunah"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Pengecatannya rapih dan cepat, saya jadi mau berlangganan disini.\"",
+      "name": "Bang Miun"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Pengecatan Exterior + Bahan",
+      "job": "Rp.35.000 - Rp. 42.000/meter"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Pengecatan Interior + Bahan",
+      "job": "Rp.25.000 - Rp.31.000/meter"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Pengecatan Exterior",
+      "job": "Rp.30.000 - Rp. 40.000/meter"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Pengecatan Interior",
+      "job": "Rp.20.000 - Rp.30.000/meter"
+    }
+  ],
+  "Contact": {
+    "address": "4321 Kampung Pisang Tangerang 12345 ",
+    "phone": "+62 123456789",
+    "email": "info@cat-cantik.com",
+    "facebook": "fb.com/cat_cantik",
+    "twitter": "twitter.com/cat_cantik",
+    "youtube": "youtube.com/cat_cantik"
+  },
+  "Features": [
+  ]
+}
